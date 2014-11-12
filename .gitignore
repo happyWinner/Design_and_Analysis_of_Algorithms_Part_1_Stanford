@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# C++ with Visual Studio
+**/Debug
+**/Release
